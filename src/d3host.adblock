@@ -129,6 +129,11 @@
 ! --- YouTube
 ||ads.youtube.com^
 
+! --- Twitch 
+||video-edge-f2a257.pdx01.abs.hls.ttvnw.net/v1/$domain=twitch.tv,third-party
+||amazon-adsystem.com^
+||edge.ads.twitch.tv^
+
 ! --- TikTok
 ||ads-api.tiktok.com^
 ||analytics.tiktok.com^
